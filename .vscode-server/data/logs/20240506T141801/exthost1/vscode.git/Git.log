@@ -1,0 +1,32 @@
+2024-05-06 14:18:09.913 [info] Log level: Info
+2024-05-06 14:18:09.913 [info] Validating found git in: "git"
+2024-05-06 14:18:09.913 [info] Using git "2.34.1" from "git"
+2024-05-06 14:18:09.913 [info] > git rev-parse --show-toplevel [18ms]
+2024-05-06 14:18:09.913 [info] > git rev-parse --git-dir --git-common-dir [10ms]
+2024-05-06 14:18:09.913 [info] Open repository: /home/collinskaruri/repos/git_test
+2024-05-06 14:18:09.913 [info] > git config --get commit.template [3ms]
+2024-05-06 14:18:09.927 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [8ms]
+2024-05-06 14:18:09.936 [warning] ENOENT: no such file or directory, open '/home/collinskaruri/repos/git_test/.git/refs/remotes/origin/main'
+2024-05-06 14:18:09.937 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-05-06 14:18:09.952 [info] > git status -z -uall [6ms]
+2024-05-06 14:18:09.976 [info] > git config --get commit.template [8ms]
+2024-05-06 14:18:09.986 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [3ms]
+2024-05-06 14:18:09.994 [warning] ENOENT: no such file or directory, open '/home/collinskaruri/repos/git_test/.git/refs/remotes/origin/main'
+2024-05-06 14:18:09.995 [info] > git rev-parse refs/remotes/origin/main [2ms]
+2024-05-06 14:18:10.004 [info] > git status -z -uall [2ms]
+2024-05-06 14:18:10.458 [info] > git check-ignore -v -z --stdin [2ms]
+2024-05-06 14:18:11.804 [info] > git show --textconv :README.md [22ms]
+2024-05-06 14:18:11.804 [info] > git ls-files --stage -- /home/collinskaruri/repos/git_test/README.md [4ms]
+2024-05-06 14:18:11.867 [info] > git cat-file -s f9894f4195f4854cfc3e3c55960200adebbc3ac5 [6ms]
+2024-05-06 14:18:14.035 [info] > git show --textconv :hello_world.txt [8ms]
+2024-05-06 14:18:14.035 [info] > git ls-files --stage -- /home/collinskaruri/repos/git_test/hello_world.txt [2ms]
+2024-05-06 14:18:14.042 [info] > git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 [2ms]
+2024-05-06 14:18:17.712 [info] > git show --textconv :README.md [7ms]
+2024-05-06 14:18:17.712 [info] > git ls-files --stage -- /home/collinskaruri/repos/git_test/README.md [2ms]
+2024-05-06 14:18:17.719 [info] > git cat-file -s f9894f4195f4854cfc3e3c55960200adebbc3ac5 [2ms]
+2024-05-06 16:37:11.276 [info] > git config --get commit.template [12ms]
+2024-05-06 16:37:11.287 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [15ms]
+2024-05-06 16:37:11.291 [info] > git ls-files --stage -- /home/collinskaruri/repos/git_test/README.md [7ms]
+2024-05-06 16:37:11.298 [info] > git cat-file -s f9894f4195f4854cfc3e3c55960200adebbc3ac5 [2ms]
+2024-05-06 16:37:11.308 [info] > git status -z -uall [2ms]
+2024-05-06 16:37:11.328 [info] > git show --textconv :README.md [2ms]

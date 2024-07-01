@@ -1,0 +1,5 @@
+2024-05-06 16:35:51.107 [info] Log level: Info
+2024-05-06 16:35:51.109 [info] Validating found git in: "git"
+2024-05-06 16:35:51.109 [info] Using git "2.34.1" from "git"
+2024-05-06 16:36:18.290 [info] > git clone odin-recipes /home/collinskaruri/repos/odin-recipes/.git/objects/pack/odin-recipes --progress [8ms]
+2024-05-06 16:36:18.290 [info] fatal: repository 'odin-recipes' does not exist

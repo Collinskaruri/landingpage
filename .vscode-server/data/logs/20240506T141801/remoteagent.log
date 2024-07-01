@@ -1,0 +1,20 @@
+2024-05-06 14:18:01.415 [info] 
+
+
+
+
+2024-05-06 14:18:01.415 [info] Extension host agent started.
+2024-05-06 14:18:01.415 [info] Started initializing default profile extensions in extensions installation folder. file:///home/collinskaruri/.vscode-server/extensions
+2024-05-06 14:18:01.447 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/collinskaruri/.vscode-server/extensions
+2024-05-06 14:18:01.693 [info] [127.0.0.1][093c286e][ManagementConnection] New connection established.
+2024-05-06 14:18:02.460 [info] [127.0.0.1][516681e2][ExtensionHostConnection] New connection established.
+2024-05-06 14:18:02.481 [info] [127.0.0.1][516681e2][ExtensionHostConnection] <20297> Launched Extension Host Process.
+2024-05-06 16:24:47.035 [info] [127.0.0.1][093c286e][ManagementConnection] The client has reconnected.
+2024-05-06 16:24:54.816 [info] [127.0.0.1][516681e2][ExtensionHostConnection] The client has reconnected.
+2024-05-06 16:35:47.530 [info] [127.0.0.1][57679b69][ManagementConnection] New connection established.
+2024-05-06 16:35:49.241 [info] [127.0.0.1][a06bd9c6][ExtensionHostConnection] New connection established.
+2024-05-06 16:35:49.250 [info] [127.0.0.1][a06bd9c6][ExtensionHostConnection] <45924> Launched Extension Host Process.
+2024-05-06 16:37:13.451 [info] [127.0.0.1][093c286e][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-06 16:37:13.607 [info] [127.0.0.1][516681e2][ExtensionHostConnection] <20297> Extension Host Process exited with code: 0, signal: null.
+2024-05-06 16:37:15.116 [info] [127.0.0.1][57679b69][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-05-06 16:37:15.247 [info] [127.0.0.1][a06bd9c6][ExtensionHostConnection] <45924> Extension Host Process exited with code: 0, signal: null.

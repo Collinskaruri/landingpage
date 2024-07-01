@@ -1,0 +1,11 @@
+[user]
+	name = collins karuri
+	email = karurikings63@gmail.com
+[init]
+	defaultBranch = main
+[color]
+	ui = auto
+[pull]
+	rebase = false
+[core]
+	editor = code --wait
